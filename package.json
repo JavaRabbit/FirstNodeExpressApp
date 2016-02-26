@@ -16,7 +16,7 @@
     "url": "https://github.com/JavaRabbit/FirstNodeExpressApp/issues"
   },
   "dependencies": {
-    "express": "~4.13.4"
+    "express": "4.x"
   },
   "homepage": "https://github.com/JavaRabbit/FirstNodeExpressApp"
 }
