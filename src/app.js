@@ -9,6 +9,10 @@ app.get('/', function(req, res){
   res.send("<h1>I love Macs </h1>");
 }); // this is the route to the home
 
+app.get('/bear', function(req, res){
+  res.send("<h1>I love Bears </h1>");
+}); // this is the route to the home
+
 app.listen(port, function(){
 console.log("it is working on port 8080")
 });
