@@ -1,0 +1,14 @@
+{
+  "Big Bird": {
+    "title": "CEO",
+    "description" : "Picked by the board of directors as most competent"
+  },
+  "Po the Panda": {
+    "title": "Chief of Finance",
+    "description": "Graduated cum laude from Wharton"
+  },
+  "Miss Piggy": {
+    "title": "Chief of Marketing",
+    "description": "Graduated from Scam School of Marketing"
+  }
+}
