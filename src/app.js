@@ -15,7 +15,7 @@ app.get('/blog', function(req, res){
 });
 
 app.get('/bear', function(req, res){
-  res.send("<h1>I love Bears </h1>");
+  res.send("<h1>I love Bears and Tigers</h1>");
 }); // this is the route to the home
 
 app.listen(port, function(){
