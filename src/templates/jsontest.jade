@@ -2,6 +2,9 @@ doctype html
 html(lang = "en")
   head
     title
-    script
+    script(type='text/javascript').
+      var mycar = {type: "Fiat", model: 2014};
+
   body
     h3 Trying to get some JSON or JS object to work
+    script document.write(mycar.type)
