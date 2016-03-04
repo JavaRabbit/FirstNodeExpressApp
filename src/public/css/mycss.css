@@ -1,3 +1,11 @@
 body {
     background-color: lightblue;
 }
+
+.highlight {
+  color: blue;
+}
+
+.item {
+  padding-left: 30px;
+}
